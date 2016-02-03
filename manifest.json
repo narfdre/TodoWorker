@@ -1,0 +1,12 @@
+{
+  "name": "TodoWorker",
+  "short_name": "todoworker",
+  "icons": [{
+        "src": "/img/logo.ico",
+        "sizes": "256x256"
+      }],
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "205040064408",
+  "gcm_user_visible_only": true
+}
